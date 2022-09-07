@@ -12,11 +12,11 @@
       </div>
     </MainSection>
 
-    <Teleport to="body">
+  
       <div class="fixed dark:bg-dim-50 z-40 flex justify-center items-center">
-        <PostModal class="bg-dim-900" :user-avatar="userAvatar.link"/> 
+        <PostModal class="text-black dark:bg-dim-900" :user-avatar="userAvatar.link"/> 
       </div>
-    </Teleport>
+    
   </div>
 </template>
 

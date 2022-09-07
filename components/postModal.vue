@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col dark:text-white h-80 rounded-2xl p-4"
+    class="flex  flex-col dark:text-white h-80 rounded-2xl p-4"
   >
     <div class="flex justify-between mb-4">
       <p>X</p>
@@ -24,7 +24,8 @@
             outline-none
             bg-transparent
             border-none
-            text-white
+            dark:text-white
+            text-black
             h-100
           "
           v-model="tweetContent"
