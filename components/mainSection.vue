@@ -7,14 +7,15 @@
             </h2>
         </div>
 
+        <!-- ? loading indicator -->
         <div v-if="props.loading" class="flex items-center justify-center p-4 border-b"
              :class="twitterBorderColor"
         >
             <UISpinner />
         </div>
-        <!-- ? main feed: content -->
+        <!-- ? else show main feed: content -->
         <div v-else>
-            <slot></slot>
+            <slot name="feed-content"></slot>
         </div>
 
     </div>

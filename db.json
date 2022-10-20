@@ -1,0 +1,35 @@
+{
+    "posts": [
+        {
+            "userId": "@some_username",
+            "id": "username",
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
+            "userAvatar": "https://i.pravatar.cc/300"
+        },
+        {
+            "userId": "@some_username",
+            "id": "username",
+            "title": "qui est esse",
+            "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+        },
+        {
+            "userId": "@some_username",
+            "id": "username",
+            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+        },
+        {
+            "userId": "@some_username",
+            "id": "username",
+            "title": "eum et est occaecati",
+            "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+        },
+        {
+            "userId": "@some_username",
+            "id": "username",
+            "title": "nesciunt quas odio",
+            "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+        }
+    ]
+}
