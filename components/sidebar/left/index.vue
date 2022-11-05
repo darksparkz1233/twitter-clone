@@ -76,7 +76,7 @@
       </SidebarLeftTab>
       <!-- ? tweet button -->
       <div class="">
-        <button 
+        <!-- <button 
           :class="defaultTransition"
           class="
             dark:text-white 
@@ -88,7 +88,8 @@
             text-md
           ">
           Tweet
-        </button>
+        </button> -->
+        <NuxtLink to="/auth">Tweet</NuxtLink>
       </div>
     </div>
   </div>

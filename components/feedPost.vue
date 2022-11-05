@@ -62,12 +62,12 @@
 </template>
 
 <script setup>
-import {
-  ChatIcon,
-  SwitchVerticalIcon,
-  HeartIcon,
-  DownloadIcon,
-} from "@heroicons/vue/outline";
+// import {
+//   ChatIcon,
+//   SwitchVerticalIcon,
+//   HeartIcon,
+//   DownloadIcon,
+// } from "@heroicons/vue/outline";
 
 let props = defineProps({
   post: Object
